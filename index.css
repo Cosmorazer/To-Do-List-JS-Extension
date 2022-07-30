@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: cursive;
+}
+
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+
+button {
+  background: rgb(102, 255, 0);
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ol{
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#clear-btn{
+  background: rgba(255, 0, 0, 0.714);
+}
