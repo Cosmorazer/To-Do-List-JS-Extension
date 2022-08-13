@@ -1,2 +1,2 @@
 # To-Do-List-JS-Extension
-Simple to-do list chrome extension
+Simple to-do list chrome extension using Javascript
